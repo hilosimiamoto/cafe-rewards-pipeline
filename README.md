@@ -86,4 +86,4 @@ cafe-rewards-pipeline/
 ## Author
 
 Developed by Hilosi Jose Nunes Miamoto, Senior Data Engineer Candidate  
-[GitHub](https://github.com/yourprofile)
+[GitHub](https://github.com/hilosimiamoto/cafe-rewards-pipeline)
