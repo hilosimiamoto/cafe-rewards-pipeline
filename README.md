@@ -59,7 +59,6 @@ cafe-rewards-pipeline/
 ### 2.How is the age distribution of customers who completed offers vs. those who did not?
 
 > Customers who completed offers tend to be younger on average.  
-> Histogram and count comparisons were plotted using PySpark groupBy on 'age' and 'status'.
 
 
 
