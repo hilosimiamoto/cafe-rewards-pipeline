@@ -64,9 +64,7 @@ cafe-rewards-pipeline/
 
 ### 3.What is the average time taken by customers to complete an offer after receiving it?
 
-> On average, customers take approximately 'XYZ' hours to complete an offer.  
-> This was calculated by subtracting 'received time' from 'completed time' for each customer-offer pair.
-
+>No completed offers found in this dataset sample, making it impossible to calculate average completion time.
 
 
 ## Design Choices
