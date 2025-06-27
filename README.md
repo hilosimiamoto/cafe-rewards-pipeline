@@ -45,6 +45,8 @@ cafe-rewards-pipeline/
    - 01_bronze_ingestion.py   → saves data in Bronze layer (`/FileStore/bronze/`)
    - 02_trusted_processing.py → cleans and joins data into Trusted layer
    - 03_refined_analytics.py  → executes KPIs and answers the business questions
+     In this solution, the Trusted Layer acts as Silver, providing cleansed and integrated data, while the Refined Layer acts as Gold, delivering business-ready KPIs and analytical insights for direct consumption.
+
 
 
 ## Analytical Questions & Answers
